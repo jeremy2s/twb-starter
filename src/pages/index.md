@@ -1,9 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Passion Creates Vision
+image: /img/twb-back.jpg
+heading: Test
+subheading: >-
+  Your passion created a vision. Our passion is to use technology to share that
+  vision.
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +70,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
